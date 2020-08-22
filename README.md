@@ -1,4 +1,4 @@
 mybook
 ======
 
-fb2-reader on python
+fb2-reader with python
